@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230361241055",
+    "project_id": "to-status-saver",
+    "storage_bucket": "to-status-saver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230361241055:android:2a75ac24cd378ea53ea06a",
+        "android_client_info": {
+          "package_name": "com.kessi.TOStatusSaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230361241055-1gs5q68nv57d0rgj14c91v4cbcek48c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeTQPaQuGSdouAGKIUcRDrQSX1nxxmAKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230361241055-1gs5q68nv57d0rgj14c91v4cbcek48c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
